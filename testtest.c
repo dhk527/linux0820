@@ -9,6 +9,6 @@ int sum(int a, float b){
 
 int main(){
     int s=sum(1234,46.34);
-    printf("sum : %d \n",s);
+    printf("summ : %d \n",s);
     return 0;
 }
