@@ -27,7 +27,7 @@ int main(){
 	}
 
 
-	int a = arryA;
+	int *a = arryA;
 // array의 시작을 나타내는 주소 
 	printf(" a= %d\n", a);
 	
