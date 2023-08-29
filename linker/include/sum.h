@@ -7,7 +7,7 @@ typedef struct {
 	int b;
 }test;
 
-int sum(int, int b);
+int sum(int a, int b);
 
 
 #endif
